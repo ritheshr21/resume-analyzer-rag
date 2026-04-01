@@ -1,0 +1,132 @@
+Role description
+Who we are: 
+
+At UST, we help the world’s best organizations grow and succeed through transformation. Bringing together the right talent, tools, and ideas, we work with our client to co-create lasting change. Together, with over 30,000 employees in 25 countries, we build for boundless impact—touching billions of lives in the process. Visit us at . 
+
+  
+
+ 
+
+We are seeking a senior Ops Engineer to support GenAI, LLM, and ML workloads, with a strong focus on deployment automation, observability, scalability, and platform reliability across Azure and Kubernetes environments. 
+
+ 
+
+The Opportunity: 
+
+ 
+
+AI Agent Development & LLM Integration 
+
+Build AI agents using frameworks like LangGraph, Autogen, Crew, or PydanticAI. 
+
+Design and optimize prompt engineering workflows for LLMs (e.g., GPT, Claude, LLaMA). 
+
+Develop modular, reusable components for agent orchestration and task automation. 
+
+Model Deployment & Infrastructure 
+
+Deploy models using Databricks and Azure ML, integrating with enterprise-grade systems. 
+
+Implement APIs, WebSockets, and event-driven architectures for real-time AI services. 
+
+Collaborate with platform teams to ensure scalable and secure deployments. 
+
+Development & Automation 
+
+Work with CI/CD pipelines using Jenkins to automate testing and deployment. 
+
+Use GitHub Copilot, Windsurf, Codeium, or similar tools to accelerate development. 
+
+Maintain high code quality and documentation standards using Git, Jira, and Confluence 
+
+ 
+
+What are we looking for: 
+
+ 
+
+ 
+
+3-5 years of experience working Machine Learning / Artificial Intelligent or related fields. 
+
+1+ years of experience building Generative AI Applications for enterprise, deep understanding of workflows like RAG. 
+
+Strong proficiency in Python and modern development practices. 
+
+Hands-on experience with LLMs and prompt engineering. 
+
+Experience building AI agents using at least one of Lang Graph, Crew, or PydanticAI. 
+
+Familiarity with Databricks and cloud-native deployment strategies. 
+
+Understanding of REST APIs, WebSockets, and event-driven systems. 
+
+Familiarity with SDLC best practices and agile methodologies. 
+
+Proficiency with using CI/CD tools (Jenkins) and version control (Git). 
+
+Comfortable using AI-augmented development tools for rapid prototyping. 
+
+Nice-to-Have Skills:Exposure to MLOps/LLMOps workflows and model monitoring. 
+
+Knowledge of enterprise security, compliance, and governance in AI systems. 
+
+Exposure to best practices for code and model lifecycle management. 
+
+Soft Skills & Mindset: 
+- Strong analytical and problem-solving skills. 
+- Excellent communication and collaboration abilities. 
+- Self-starter with a growth mindset and curiosity for emerging AI trends. 
+- Ability to work in cross-functional teams and adapt to evolving priorities. 
+ 
+
+ 
+
+ 
+
+What we believe: 
+
+We’re proud to embrace the same values that have shaped UST since the beginning. Since day one, we’ve been building enduring relationships and a culture of integrity. And today, it's those same values that are inspiring us to encourage innovation from everyone to champion diversity and inclusion and to place people at the centre of everything we do.  
+
+ 
+
+Humility: 
+
+We will listen, learn, be empathetic and help selflessly in our interactions with everyone. 
+
+Humanity: 
+
+Through business, we will better the lives of those less fortunate than ourselves. 
+
+Integrity: 
+
+We honour our commitments and act with responsibility in all our relationships. 
+
+ 
+
+Equal Employment Opportunity Statement 
+
+ 
+
+UST is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion, or sexual orientation. 
+
+ 
+
+All employment decisions shall be made without regard to age, race, creed, colour, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. 
+
+ 
+UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance. 
+
+ 
+
+• To support and promote the values of UST. 
+
+• Comply with all Company policies and procedures 
+
+ 
+
+ 
+
+
+Skills
+python,langgraph,autogen,pydanticai,prompt engineering,
